@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-20T11:39:59-04:00
+
+====== Home ======
+Created miércoles 20 diciembre 2017
+
+Inicio del curso de pregrado del MIT "Bachelor of Science in Mathematics with Computer Science". [[http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/|Dirección MIT]].
+
